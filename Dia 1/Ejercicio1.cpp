@@ -1,5 +1,9 @@
 #include <iostream>
 
+/*Lee un número por teclado e indica si es divisible entre 2 (resto = 0). Si no lo es, también debemos indicarlo.
+Codificar un programa que recibiendo un número por teclado devuelva si es primo o no.
+Haz un programa que pida un número por pantalla. Posteriormente pida números hasta que se ponga el mismo número que se introdujo al principio. Si es distinto, ha de decir si el número escrito es mayor o menor */
+
 bool par(int numero1){
 
     if (numero1 % 2 == 0) {
